@@ -11,6 +11,7 @@ public class EmployeeDetails {
 		System.out.println(name+ " lives in " + address);
 		System.out.println(name + " contact is " + contact);
 		
+		
 				
 		
 		
