@@ -10,6 +10,7 @@ public class EmployeeDetails {
 		System.out.println("The name of the employee is " + name);
 		System.out.println(name+ " lives in " + address);
 		System.out.println(name + " contact is " + contact);
+		// comitted by dipti
 		
 		
 		
